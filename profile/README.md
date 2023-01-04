@@ -1,0 +1,1 @@
+If you like my games or can learn something from games, please give a star to support me.
