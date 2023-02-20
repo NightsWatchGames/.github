@@ -1,4 +1,8 @@
-Hi👋, I'm a hobbyist game dev, currently focus on [rust🦀 programming](https://github.com/rust-lang/rust) and [bevy engine](https://github.com/bevyengine/bevy) in my spare time. Hope you like my games. Feel free to create issue or send pull request, or join the org to make new games with me if you have interest.
+Hi👋, I'm a hobbyist game dev, currently focus on [rust🦀 programming](https://github.com/rust-lang/rust) and [bevy engine](https://github.com/bevyengine/bevy) in my spare time. 
+
+All public games I made are under MIT license, which means you can do whatever you want. 
+
+Feel free to create issue or send pull request to me, or join the org to make new games with me if you have interest.
 
 Please give a star⭐ to support my work if you like my games.
 
