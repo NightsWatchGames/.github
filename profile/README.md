@@ -2,7 +2,7 @@ Hi👋, I'm a hobbyist game dev, currently focus on [rust🦀 programming](https
 
 All public games I made are under MIT license, which means you can do whatever you want. 
 
-Feel free to create issue or send pull request to me, or join the org to make new games with me if you have interest.
+Feel free to create issue or send pull request to me, very welcome to join the org to make new games with me if you have interest.
 
 Please give a star⭐ to support my work if you like my games.
 
