@@ -14,3 +14,4 @@ Please give a star⭐ to support my work if you like my games.
 - [celeste](https://github.com/NightsWatchGames/celeste): 经典蔚蓝
 - [rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube): 魔方模拟器
 - [screen-ball](https://github.com/NightsWatchGames/screen-ball): 屏幕踢球游戏
+- [tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer): 简单光栅化软渲染器
